@@ -43,6 +43,7 @@ ExpenseTracker/
 ├── main.py
 ├── expenses.json
 ├── README.md
+|__ .gitignore
 expenses.json gets created automatically when you run the program for the first time. It is not included in the repository.
 
 ⚙️ How to Run
@@ -53,11 +54,11 @@ python --version
 Clone this repository:
 
 bash
-git clone https://github.com/Brajkant/ExpenseTracker.git
+git clone https://github.com/Brajkant02/Expense-Tracker-Python.git
 Go into the project folder:
 
 bash
-cd ExpenseTracker
+cd Expense-Tracker-Python
 Run the program:
 
 bash
